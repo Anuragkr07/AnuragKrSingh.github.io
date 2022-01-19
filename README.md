@@ -37,9 +37,9 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **RCC Institute Of Information Technology**
+### BTech Computer Science (2019- 2023)
+GPA 9.3
 
 ---
 
